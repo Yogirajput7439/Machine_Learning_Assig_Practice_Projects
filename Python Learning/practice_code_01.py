@@ -3,7 +3,7 @@ class Students:
     name = "yogi_bhai"
     
     def __init__(self):
-        print("ths name is walways the yogesh then what is the problem")
+        print("Green color is a beautifull color..")
         
     
     def __init__(self, name, age, marks):
