@@ -5,3 +5,5 @@ This is Python File
 
 -String 
 Integers 
+Aray 
+Boolean 
