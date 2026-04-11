@@ -7,3 +7,4 @@ This is Python File
 Integers 
 Aray 
 Boolean 
+float values 
