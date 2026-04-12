@@ -8,3 +8,7 @@ Integers
 Aray 
 Boolean 
 float values 
+
+And Loop 
+for loop
+while loop
