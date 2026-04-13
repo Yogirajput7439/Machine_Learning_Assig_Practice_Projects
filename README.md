@@ -10,5 +10,7 @@ Boolean
 float values 
 
 And Loop 
-for loop
+for 
+loop For Iteration 
 while loop
+Used conditioning to execute loop 
